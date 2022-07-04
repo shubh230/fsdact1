@@ -97,16 +97,18 @@ margin-left: 1.4%;
     h3{
         font-size: 7rem;
         text-align: center;
+        margin-left: 20%;
     }
     .container-fluid{
         padding: 0px 0px 0px 0px;
     }
     .forms{
 
-     padding-left:40%;
+     padding-left:30%;
      padding-right: 0%;  
     }
     .form-data{
+        padding-left: 30%;
         width: 180%;
     }
     .login-img{
